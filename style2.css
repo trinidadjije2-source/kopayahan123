@@ -1,0 +1,45 @@
+body{
+     
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 800px;
+     gap: 20px;
+     background-color: #ac71e2;
+     
+
+}
+
+div{
+    height: 300px;
+    width: 400px;;
+    border: 2.5px solid black;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+    font-size: 25px;
+    background-color: rgb(223, 219, 219);
+}
+
+section{
+    display: flex;
+    gap: 20px;
+}
+
+#button{
+    height: 35px;
+    width: 85px;
+    border-radius: 20px;
+    background-color: #7ae476; 
+}
+
+.button2{
+    height: 35px;
+    width: 85px;
+    border-radius: 20px;
+    background-color: #7ae476; 
+}
